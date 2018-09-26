@@ -1,0 +1,20 @@
+{
+  "name": "publisher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "publisher.js",
+  "dependencies": {
+    "@types/node": "^10.11.0",
+    "mqtt": "^2.18.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mqtt",
+    "example"
+  ],
+  "author": "djory krache",
+  "license": "ISC"
+}
